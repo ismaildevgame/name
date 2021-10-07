@@ -5,6 +5,7 @@ import wikipedia #pip install wikipedia
 import webbrowser
 import os
 import smtplib
+#there is new extension like wikilab you should tri this
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
